@@ -1,0 +1,324 @@
+Hover{
+    overflow: hidden;
+}
+.sec1{
+    color: white;
+
+}
+.ohoo{
+    color: rgba(255, 255, 255, 0.895);
+}
+.para1{
+    color: rgba(128, 128, 128, 0.804);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.home{
+    color: rgba(128, 128, 128, 0.866);
+    text-decoration: none;
+}
+.home:hover{
+    text-decoration: none;
+    color: white;
+}
+.para2{
+    color: rgba(128, 128, 128, 0.866);
+    text-align: right;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para2:hover{
+    color: white;
+}
+.hehe{
+    text-align: right;
+    margin-bottom: 15px;
+}
+.cart{
+    color: yellow;
+    font-size: 20px;
+}
+.butt{
+    background-color: rgba(150, 90, 11, 0.774);
+}
+
+.sec2{
+    background-image: url(beef.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+
+    background-size: cover;
+    
+}
+.emoji{
+    font-size: 180px;
+    color:yellow;   
+}
+.para31{
+    
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    
+    
+}
+.para3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    padding-top: 0px;
+    
+}
+.sec3{
+    background-color: black;
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+
+
+.center1{
+    padding-top: 50px;
+}
+.para4{
+    color: white;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serifx;
+}
+.sec4{
+    background-image: url(hall.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+.para5{
+    color:rgba(255, 255, 255, 0.712);
+    font-size: 50px;
+}
+.ic{
+    color: white;
+    font-size: 15px;
+}
+.center2{
+    padding-top: 120px;
+    
+}
+.para6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    color: white;
+    
+}
+
+
+
+.sec5{
+    background-image: url(cateringg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    z-index: 1px;
+}
+.inbox2{
+    padding-top: 120px;
+
+}
+.para7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white; 
+}
+.para8{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+.sec6{
+    background-blend-mode:lighten;
+    background-image: url(cooking.webp);
+    height: 150px;
+    /* background-image: url(cooking.webp); */
+    background-image: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+.inbox3{
+    padding-top: 36px;
+}
+.para9{
+    font-family: 'title block';
+    font-size: 30px;
+    
+}    
+.para91{
+    font-family: 'title block';
+    font-size: 30px;
+ 
+}
+.para10{
+    color: blCK;
+}
+
+
+
+.sec7{
+    background-image: url(spices.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.inbox4{
+    padding-top: 100px;
+}
+.para11{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px ;
+    color: white;
+}
+.para12{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px ;
+    color: white;
+    
+}
+.para13{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px ;
+    color: white;
+}
+
+
+
+.sec8{
+    background-image: url(chhers.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.inbox5{
+    padding-top: 180px;
+}
+.para14{
+    font-family: 'wild west';
+    font-size: 50px;
+    color: white;
+
+}
+.para15{
+    font-family: 'avant garde';
+    font-size: 15px;
+    color: white;
+    
+
+}
+
+
+
+.sec9{
+    /* background-color: rgba(255, 255, 255, 0.281); */
+    background-image: url(familly.png);
+    background-blend-mode:lighten;
+    padding: 60px 0px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.para16{
+    font-style:italic;
+    font-size: 16px;
+    color: white;
+}
+.para17{
+    font-style: italic;
+    font-size: 16px;
+    color: white;
+}
+.para18{
+    
+    font-size: 13px;
+    color: white;
+    
+}
+.sec10{
+    background-image: url(cuttinggg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+}
+.inbox7{
+    padding-top:100px;
+}
+.para19{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: white;
+    
+}
+.para20{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;  
+}
+.sec11{
+    background-color: rgb(104, 98, 98);
+    
+}
+.e{
+    line-height: 1px;
+    font-style: italic;
+}
+.loyalty{
+    border-radius: 50px;
+    text-align: center;
+}
+.usb{
+    color: white;
+}
+.o{
+    color: rgb(77, 74, 74);
+}
+.bb{
+    color: white;
+}
+.aisu{
+color: rgb(146, 146, 83);
+}
+.ass{ 
+    font-style: italic;
+}
+.pp{
+    color: rgb(43, 40, 40);
+    text-decoration: none;
+}
+.pp:hover{
+    color: white;
+    text-decoration: none;
+}
+.sec12{
+    background-color: rgba(70, 44, 184, 0.89);
+    padding: 15px 0px;
+    height: 60px;
+}
+.tx{
+    color: rgb(146, 146, 83);
+}
+.tx:hover{
+    color: yellow;
+}
+
+.as{
+    padding: 80px 0px;
+    background-color: rgba(0, 0, 0, 0.415);
+}
+.azx{
+    background-color:rgba(205, 205, 147, 0.325);
+}
